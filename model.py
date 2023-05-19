@@ -9,6 +9,8 @@ from collections import Counter
 from nltk.corpus import stopwords
 import string
 nltk.download('punkt')
+nltk.download('stopwords')
+
 
 # Load GPT-2 tokenizer and model
 tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
