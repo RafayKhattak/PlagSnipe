@@ -8,6 +8,7 @@ import plotly.express as px
 from collections import Counter
 from nltk.corpus import stopwords
 import string
+nltk.download('punkt')
 
 # Load GPT-2 tokenizer and model
 tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
