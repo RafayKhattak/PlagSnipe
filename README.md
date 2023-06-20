@@ -1,4 +1,4 @@
-# PlagSnipe - AI-Powered Plagiarism Detection Tool
+# PlagSnipe - AI Powered Plagiarism Detection Tool
 PlagSnipe is an advanced AI-powered plagiarism detection tool that leverages the power of GPT-2 language model and the natural language processing capabilities of NLTK to determine whether a given text was authored by AI or not. By analyzing perplexity and burstiness, PlagSnipe provides accurate insights into the authorship of the text, distinguishing between human-written and AI-generated content.
 ![Screenshot (458)](https://github.com/RafayKhattak/PlagSnipe/assets/90026724/a992ae75-86fe-4318-9777-bd5c7ddaf21e)
 
